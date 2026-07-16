@@ -1,67 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=SAGAR%20B%20R&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20ML%20Graduate%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=SAGAR%20B%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+web+applications;Python+%7C+React+%7C+Node.js+%7C+OpenCV;Always+learning%2C+always+shipping" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/sagar-b-r-sagar-335762388">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:sagarsagar34176@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=sagar-b-r&color=00C2FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+ML+Graduate;Full+Stack+Web+Developer;Generative+AI+%7C+Computer+Vision+Enthusiast" alt="Typing SVG" />
 
 </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sagar-b-r-sagar-335762388">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sagarsagar34176@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <img src="https://img.shields.io/badge/Bengaluru-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00F7FF&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
 
 <br/>
 
 ## 🚀 About Me
 
-- 🎓 AI & Machine Learning graduate (2026) — Vivekananda Institute of Technology, Bengaluru, CGPA **8.58**
-- 🧠 Focused on **Generative AI**, **Computer Vision**, and **Full Stack Web Development**
-- 🛠️ I build complete AI applications — from model, to REST API, to responsive UI
-- 📫 Reach me at **sagarsagar34176@gmail.com**
+```yaml
+name: "Sagar B R"
+role: "AI & Machine Learning Graduate | Full Stack Developer"
+education: "B.E. in Artificial Intelligence & Machine Learning — CGPA 8.58"
+focus: ["Generative AI", "Computer Vision", "Full Stack Web Development"]
+building: "AI-powered applications that solve real problems"
+```
+
+- 🎓 Graduating **2026** from **Vivekananda Institute of Technology, Bengaluru**
+- 🧠 Passionate about **Generative AI**, **Computer Vision**, and **Full Stack Development**
+- 🛠️ I build end-to-end AI applications — model → REST API → responsive UI
+- 📫 **sagarsagar34176@gmail.com**
 
 <br/>
 
 ## 🧰 Tech Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,flask,sqlite,html,css,git,github,vscode&theme=dark" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,flask,sqlite,html,css,git,github,vscode,opencv&theme=dark&perline=7" alt="Skill icons"/>
+</p>
 
 <br/>
 
 ## 🔥 Featured Projects
 
-### 🎯 [CamCtrx — AI Face Recognition Attendance System](https://github.com/sagar-b-r)
-Real-time facial recognition attendance system with a live dashboard and reporting.
-**Tech:** Python · Flask · OpenCV · SQLite · JavaScript
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 CamCtrx
+**AI-Based Face Recognition Attendance System**
+
+Real-time facial recognition attendance platform with a live dashboard and reporting suite.
+
+`Python` `Flask` `OpenCV` `SQLite` `JavaScript`
 
 - Real-time face detection & attendance tracking
 - REST APIs for employee & attendance management
 - Webcam + IP camera monitoring support
 - Dashboard, employee management & reporting modules
 
-### 🎬 [Net Trailer — Movie Trailer Web App](https://github.com/sagar-b-r)
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Net Trailer
+**Movie Trailer Web Application**
+
 A Netflix-style platform to browse, search, and watch movie trailers.
-**Tech:** React.js · Node.js · Express.js · SQLite
+
+`React.js` `Node.js` `Express.js` `SQLite`
 
 - Authentication & user session management
 - Movie categories & search functionality
 - SQLite-backed users, movies & watch history
 - Fully responsive UI
 
+</td>
+</tr>
+</table>
+
 <br/>
 
 ## 💼 Experience
 
-**Android App Development using Gen AI** — Internship
-Built and maintained Android apps (Java/XML, Android Studio); designed UI, handled database integration and testing.
+**Android App Development using Gen AI** · *Internship*
+- Built and maintained Android applications using Java/XML in Android Studio
+- Designed user-friendly interfaces and implemented core features
+- Handled database integration and application testing
 
 <br/>
 
@@ -77,23 +107,28 @@ Built and maintained Android apps (Java/XML, Android Studio); designed UI, handl
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sagar-b-r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-b-r&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph"/>
+</p>
 
 <br/>
 
-<div align="center">
+## 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/sagar-b-r-sagar-335762388">
-  <img src="https://img.shields.io/badge/Let's%20connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sagar-b-r-sagar-335762388">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sagarsagar34176@gmail.com">
+    <img src="https://img.shields.io/badge/Say%20Hi-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
-
-<i>⭐️ Thanks for visiting my profile!</i>
-
-</div>
+<p align="center"><i>⭐️ Thanks for stopping by!</i></p>
